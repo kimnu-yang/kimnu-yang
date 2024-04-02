@@ -16,7 +16,7 @@
 
 ## 기술스택
 
-#### 개발언어 + 프레임워크
+#### 개발언어/프레임워크
 <img width=48 src="https://github.com/kimnu-yang/kimnu-yang/assets/110176543/543e3f96-68ff-41e5-9050-abcf12a89516" />
 <img width=48 src="https://github.com/kimnu-yang/kimnu-yang/assets/110176543/4a02ae84-8d61-437a-ae92-d146c0db9881" />
 <img width=48 src="https://github.com/kimnu-yang/kimnu-yang/assets/110176543/45290020-e32e-4c33-b138-92c7db929b78" />
@@ -60,5 +60,5 @@
 <br><br>
 
 ## 교육
-- 하이브리드 클라우드 엔지니어 양성 과정 / 2023.07 ~ 2023.01
+- 하이브리드 클라우드 엔지니어 양성 과정 / 2023.07 ~ 2023.12
 - 자바 프레임워크 개발자 양성 과정 / 2019.08 / 2020.01
