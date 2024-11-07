@@ -1,4 +1,4 @@
-## 양기문(29) / Gimun Yang
+## 양기문(30) / Gimun Yang
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-white?style=flat-square&logo=velog&link=https://velog.io/@devgimun/)](https://velog.io/@devgimun/)
 [![Static Badge](https://img.shields.io/badge/Mail-white?style=flat-square&logo=naver&link=mailto%3Ddevgimun%40naver.com)](mailto:devgimun@naver.com)
 
@@ -9,7 +9,8 @@
 <br>
 
 ## 경력
-- 디지털에셋그룹 / 블록체인 연계 서비스 개발 / 2022.07 ~ 2023.04
+- 스마트웨어 / 반려동물 관련 서비스 백엔드 개발 / 2024.07 ~
+- 디지털에셋그룹 / 블록체인 연계 서비스 백엔드 개발 / 2022.07 ~ 2023.04
 - 웨인테크놀로지 / P2P, 대부업, 렌탈업 금융 시스템 개발 / 2020.02 ~ 2022.04
 
 <br>
